@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Exo7\Exo7\bin\Debug\Exo7.exe.config
+C:\Users\Moi\source\repos\Exo7\Exo7\bin\Debug\Exo7.exe
+C:\Users\Moi\source\repos\Exo7\Exo7\bin\Debug\Exo7.pdb
+C:\Users\Moi\source\repos\Exo7\Exo7\obj\Debug\Exo7.csprojAssemblyReference.cache
+C:\Users\Moi\source\repos\Exo7\Exo7\obj\Debug\Exo7.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Exo7\Exo7\obj\Debug\Exo7.exe
+C:\Users\Moi\source\repos\Exo7\Exo7\obj\Debug\Exo7.pdb
